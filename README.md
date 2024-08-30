@@ -8,13 +8,15 @@ This repository contains notes and resources for the Linux Shell Scripting cours
 
 Originally, these notes were compiled on my [Notion page](https://shathin.notion.site/Linux-Shell-Scripting-0c791a8ae0514353bc7b17d7b2d1b426?pvs=74), but I am now migrating them to GitHub. This move aims to open up the content for collaboration from new students and to share this resource with a broader audience. By making this knowledge more accessible, I hope to contribute to the learning journey of others who are exploring Linux shell scripting.
 
-### Contents
-
-The content is broadly split into three parts providing a structured approach to mastering the essentials of shell scripting : 
-1. File Types
-2. Commands in Linux
-3. Syntaxes in Shell Scripting
-
 ### Disclaimer
 
 Please note that the content might not be complete as it was created during my time in the M.Tech program, and I haven’t actively maintained it since. Therefore, it is open for collaboration from other students of IIIT, Bengaluru who are interested in contributing to and expanding the content.
+
+-----
+
+# Contents
+
+The content is broadly split into three parts providing a structured approach to mastering the essentials of shell scripting : 
+1. [File Types](/notes/file-types.md)
+2. [Commands in Linux](/notes/commands.md)
+3. [Syntaxes in Shell Scripting](/notes/shell-scripting.md)
