@@ -20,3 +20,6 @@ The content is broadly split into three parts providing a structured approach to
 1. [File Types](/notes/file-types.md)
 2. [Commands in Linux](/notes/commands.md)
 3. [Syntaxes in Shell Scripting](/notes/shell-scripting.md)
+
+This repository also contains my [assignment](/assignment/assignment.md) submitted as part of the course. 
+Please do not copy the assignment, and instead only use it as a reference in case you are stuck. 
